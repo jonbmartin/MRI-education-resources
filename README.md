@@ -19,7 +19,7 @@ Included in this repository are the contents of an interactive book that uses ma
 
 All of the notebooks used to create interactive book can also be viewed and run online, thanks to the Binder project:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LarsonLab/MRI-education-resources/main?filepath=Notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/MRI-education-resources/main?filepath=Notebooks)
 
 ## Spin Physics and Magnetic Resonance Simulators
 * http://drcmr.dk/BlochSimulator/
